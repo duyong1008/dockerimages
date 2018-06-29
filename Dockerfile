@@ -1,1 +1,1 @@
-FROM gcr.io/google-samples/xtrabackup:1.0
+FROM gcr.io/google_containers/addon-resizer:1.0
