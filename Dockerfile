@@ -1,1 +1,1 @@
-FROM gcr.io/kubernetes-helm/tiller:v2.11.0
+FROM docker.bintray.io/postgres:9.5.2
