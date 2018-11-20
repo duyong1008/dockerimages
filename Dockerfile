@@ -1,1 +1,1 @@
-FROM docker.bintray.io/postgres:9.5.2
+FROM gcr.io/istio-release/citadel:release-1.0-latest-daily
