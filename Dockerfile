@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/addon-resizer:1.7
+FROM us.gcr.io/k8s-artifacts-prod/ingress-nginx/controller:v0.34.1
